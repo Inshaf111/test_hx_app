@@ -1,16 +1,24 @@
-# test_hx_app
+# 🚀 Flutter App
 
-A new Flutter project.
+This is a Flutter application built for testing and development purposes.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📦 Prerequisites
 
-A few resources to get you started if this is your first Flutter project:
+Make sure you have the following installed:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- [Flutter SDK](https://docs.flutter.dev/get-started/install)
+- [Android Studio](https://developer.android.com/studio) or [Xcode](https://developer.apple.com/xcode/) (for iOS development)
+- A connected device or emulator
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- run the following commands to test the app
+
+
+```bash
+flutter doctor
+
+flutter pub get
+
+flutter run
+ 
